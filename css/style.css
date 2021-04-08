@@ -28,7 +28,6 @@ tbody,tr:nth-of-type(even)
 }
 tr:hover
 {
-	box-shadow: 0 0 30px white;
-
+	background-color: rgba(187,197,209,0.4);
 }
 	
