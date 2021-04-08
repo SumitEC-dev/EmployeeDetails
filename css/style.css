@@ -26,7 +26,7 @@ tbody,tr:nth-of-type(even)
 {
 	background:linear-gradient(45deg,blue,crimson,orange);
 }
-tr:hover
+tbody tr:hover td
 {
 	background-color: rgba(187,197,209,0.4);
 }
